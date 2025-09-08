@@ -7,10 +7,14 @@ The objective of this project is to analyze supply chain sales data and transfor
 I developed this project in Power BI using sales and supply chain data covering categories, subcategories, costs, revenue, profit, geography, and customer demographics.
 The dashboard was designed to track:
 
-25K Total Orders
-$24.91M Revenue
-$14.46M Cost
-$10.46M Profit
+25K 
+Total Orders
+$24.91M 
+Revenue
+$14.46M 
+Cost
+$10.46M 
+Profit
 Profit %
 With dynamic filters and drill-down features, stakeholders can explore:
 Orders by Category
