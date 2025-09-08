@@ -73,8 +73,7 @@ The dashboard answers key business questions such as:
 
 ---
 
-## Dashboard Image
-- https://github.com/Deep111990/Supplychain-Sales-Dashboard-PowerBI/blob/main/Mini%20PowerBI%20Project.JPG
+## Dashboard Image <a href "https://github.com/Deep111990/Supplychain-Sales-Dashboard-PowerBI/blob/main/Mini%20PowerBI%20Project.JPG">View Dashboard</a>
 
 ---
 
