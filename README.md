@@ -8,13 +8,13 @@ I developed this project in Power BI using sales and supply chain data covering 
 The dashboard was designed to track:
 
 25K 
-Total Orders
+Total Orders,
 $24.91M 
-Revenue
+Revenue,
 $14.46M 
-Cost
+Cost,
 $10.46M 
-Profit
+Profit,
 Profit %
 With dynamic filters and drill-down features, stakeholders can explore:
 Orders by Category
