@@ -30,7 +30,7 @@ This project demonstrates how I leveraged Power BI, DAX, and Power Query to tran
 - **Dataset**: Contains order-level data including category, sub-category, geography, sales, cost, profit, and customer demographics.  
 - **Data Preparation**:  
   - Cleaned and transformed using Power Query.  
-  - Created calculated columns and measures for profit %, total revenue, and year-wise analysis.  
+  - Created calculated columns and measures for profit %, total revenue, and year-wise analysis.
 
 ---
 
@@ -69,7 +69,12 @@ The dashboard answers key business questions such as:
 - **Power BI Desktop** – Dashboard creation and visualization.  
 - **Power Query** – Data cleaning and transformation.  
 - **DAX (Data Analysis Expressions)** – For calculated measures and KPIs.  
-- **Interactive Filters & Slicers** – For drill-down analysis.  
+- **Interactive Filters & Slicers** – For drill-down analysis.
+
+---
+
+## Dashboard Image
+- https://github.com/Deep111990/Supplychain-Sales-Dashboard-PowerBI/blob/main/Mini%20PowerBI%20Project.JPG
 
 ---
 
