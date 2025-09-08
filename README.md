@@ -3,6 +3,22 @@
 ## 🎯 Project Objective
 The objective of this project is to analyze supply chain sales data and transform it into meaningful business insights using Power BI. By leveraging data modeling, visualization, and DAX measures, the dashboard provides a clear overview of orders, revenue, cost, and profit performance across categories, countries, and regions.
 
+## 📝 Description
+I developed this project in Power BI using sales and supply chain data covering categories, subcategories, costs, revenue, profit, geography, and customer demographics.
+The dashboard was designed to track:
+
+25K Total Orders
+$24.91M Revenue
+$14.46M Cost
+$10.46M Profit
+Profit %
+With dynamic filters and drill-down features, stakeholders can explore:
+Orders by Category
+Profit by Region & Country
+Year-wise Profit Growth (2020–2022)
+
+This project demonstrates how I leveraged Power BI, DAX, and Power Query to transform raw data into actionable insights for supply chain optimization.
+
 ---
 
 ## 📂 Data
