@@ -1,4 +1,5 @@
 # 📊 Sales Report – Supply Chain Dashboard (Power BI Project)
+Supply Chain Analytics with Power BI.
 
 ## 🎯 Project Objective
 The objective of this project is to analyze supply chain sales data and transform it into meaningful business insights using Power BI. By leveraging data modeling, visualization, and DAX measures, the dashboard provides a clear overview of orders, revenue, cost, and profit performance across categories, countries, and regions.
@@ -19,7 +20,7 @@ Profit %
 With dynamic filters and drill-down features, stakeholders can explore:
 Orders by Category
 Profit by Region & Country
-Year-wise Profit Growth (2020–2022)
+Year-wise Profit Growth (2020–2022).
 
 This project demonstrates how I leveraged Power BI, DAX, and Power Query to transform raw data into actionable insights for supply chain optimization.
 
